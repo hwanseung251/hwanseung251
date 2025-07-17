@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Do%20Not%20Think&fontAlign=70&fontAlignY=40&color=gradient&fontColor=ffffff&animation=fadeIn&desc=Sunset%20in%20Madagascar&descAlign=70&descAlignY=60&section=header&gradientFrom=ff6e40&gradientTo=ffa726)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Do%20Not%20Think&fontAlign=70&fontAlignY=40&color=gradient&fontColor=ffffff&animation=fadeIn&descAlign=70&descAlignY=60&section=header&gradientFrom=ff6e40&gradientTo=ffa726)
 
 
 <!--
