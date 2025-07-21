@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Do%20Not%20Think&fontAlign=70&fontAlignY=40&color=gradient&fontColor=ffffff&animation=fadeIn&descAlign=70&descAlignY=60&section=header&gradientFrom=ff6e40&gradientTo=ffa726)
+<p align="center">
+<img src="![Image](https://github.com/user-attachments/assets/5b90260d-3d5e-4122-94b6-c2ba33d5a7f2)">
+</p>
 
 
 <!--
