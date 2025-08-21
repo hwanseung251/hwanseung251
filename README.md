@@ -2,7 +2,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={정환승})](https://solved.ac/{jfs8566})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={나정현})](https://solved.ac/{junghyun_na321})
 <!--
 **hwanseung251/hwanseung251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
