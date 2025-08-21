@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/5b90260d-3d5e-4122-94b6-c2ba33d5a7f2)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={정환승})](https://solved.ac/{jfs8566})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jfs8566)](https://solved.ac/{jfs8566})
 <!--
 **hwanseung251/hwanseung251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
