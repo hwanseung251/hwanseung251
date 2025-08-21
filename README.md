@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/5b90260d-3d5e-4122-94b6-c2ba33d5a7f2)
 <hr style="height:4px; background:black; border:none;">
 
-###Tech Stack
+## Tech Stack
 ---
 
 
