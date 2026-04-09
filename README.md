@@ -1,5 +1,4 @@
-# 😄 **데이터**로 문제를 파악하고 
-# **AI**로 해결하는 **AI엔지니어 “정환승”** 입니다.
+# 데이터로 문제를 파악하고<br>AI로 해결하는 AI 엔지니어 정환승입니다.
 ![Image](https://github.com/user-attachments/assets/5b90260d-3d5e-4122-94b6-c2ba33d5a7f2)
 <hr style="height:4px; background:black; border:none;">
 
